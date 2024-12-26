@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vsshevtsova.mycounter"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5c254dc7-c6e2-4363-802e-e48b8689e36d"
+      }
+    },
+    "owner": "vsshevtsova"
   }
 }
